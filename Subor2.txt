@@ -2,3 +2,5 @@ Jeden
 Dva
 Tri
 Styri
+Desat
+Jedenast
