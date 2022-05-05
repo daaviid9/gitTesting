@@ -1,6 +1,8 @@
 Jeden
 Dva
-Tri
-Styri
+Tri a pol
+Styri a pol
+Pat
+Sest
 Desat
-Jedenast
+Jednast
