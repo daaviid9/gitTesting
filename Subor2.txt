@@ -6,5 +6,5 @@ Pat
 Sest
 Desat
 Jednast
-Dvanast
-Trinast
+Dvadsat
+Tridsat
